@@ -26,5 +26,5 @@ Quản lý phiên bản: Git + GitHub
 Mô hình phát triển: Agile – Scrum
 🚀 Cài đặt & chạy thử
 Clone repo:
-git clone https://github.com/vancv43/[ten-repo].git
-cd [ten-repo]
+git clone https://github.com/kaytang2709-boop/Software-Engineering-Project-.git
+cd Software-Engineering-Project-
