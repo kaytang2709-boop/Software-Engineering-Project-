@@ -1,3 +1,5 @@
+1. Entity cho hệ thống nhà hàng
+
 Customer (Khách hàng)
 
 Table (Bàn ăn cụ thể)
@@ -20,4 +22,4 @@ Order N – N MenuItem (mỗi đơn có nhiều món, mỗi món có thể xuấ
 
 Table 1 – N Order (một bàn có thể có nhiều đơn trong ngày).
 
-Staff 1 – N Order (nhân viên phục vụ quản lý nhiều đơn).
+Staff 1 – N Order (nhân viên phục vụ quản lý nhiều đơn)
